@@ -10,8 +10,6 @@
 
 ### 🚀 *A stunning, production-ready AI chat application with zero backend complexity*
 
-[✨ Live Demo](#) • [📖 Documentation](#) • [🐛 Report Bug](#) • [💡 Request Feature](#)
-
 ---
 
 </div>
